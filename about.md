@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Every 1-2 months we meet in Athens to discuss about Atlassian products like Jira and Confluence.
+We are a community of users of Atlassian products and every 1-2 months we meet in Athens.
 
-We are a community of users of Atlassian products so in our events no Atlassian or other products or Commercial services are being sold. We share questions and best practices around tools, business cases and cases about agile practices using Atlassian products.
+In our events no Atlassian or other products or Commercial services are being sold. We share questions and best practices around tools, business cases and cases about agile practices using Atlassian products.
 
 Usually our event is on a thursday at 18:30 GR with an introductory presentation, an advanced presentation, a short workshop and plenty of pizza and beers for networking.
 
